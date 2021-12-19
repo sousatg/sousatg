@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<script src="https://tryhackme.com/badge/830858"></script>
+[![Gil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sousatg)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/sousatg.png" alt="TryHackMe">
 
